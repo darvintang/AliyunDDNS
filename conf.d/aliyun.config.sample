@@ -1,0 +1,9 @@
+[{
+	"Secret": "Access Key Secret",
+	"Key": "AccessKey ID",
+	"Domains":[{
+		"Domain": "域名，如：example.com",
+		"RR": "域名前缀，如:test是test.example.com的前缀"
+		}
+	]
+}]
